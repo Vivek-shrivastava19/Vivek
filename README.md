@@ -30,3 +30,62 @@
 
 </body>
 </html>
+
+
+.navebar{
+  background-color: white;
+  display:flex;
+  justify-content: space-evenly;
+  text-decoration: none;
+}
+
+
+button{
+  background-color: red;
+  color: white;
+  
+}
+li{
+  text-decoration: none;
+  list-style-type: none ;
+}
+
+
+.login{
+  width: 70px;
+  height: 25px;
+}
+
+
+.main{
+  display: flex;
+  height: 400px;
+  width: 500px;
+  background-color:white;
+  margin-top: 50px;
+  margin-left: 110px;
+  font-size: 40px;
+}
+
+.secandary{
+  display: flex;
+  height: 200px;
+  width: 430px;
+  background-color:white;
+  margin-top: 0px;
+  margin-left: 110px;
+  font-size: 25px;
+  font-family:10px ;  
+}
+
+ 
+
+/* button{
+  width: 120px;
+  height: 40px;
+  border-radius: 25px;
+  margin-left: 110px;
+  margin-top: 10px;
+} */
+
+ /*  */
